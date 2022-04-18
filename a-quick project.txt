@@ -1,0 +1,10 @@
+A-quick Poject
+
+colors: OK
+
+	#2661bf - azul
+	#111 - preto
+
+logo: OK
+
+imagens referência: OK
