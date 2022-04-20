@@ -15,6 +15,11 @@ header {
   text-align: center;
 }
 
+.list{
+  margin-left: 30px;
+  font-family: verdana;
+}
+
 .posicoes{
   width: 100px;
   height: 100px;
